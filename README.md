@@ -1,7 +1,7 @@
 # APIAutomation
 
 1. Clone project
-- cmd: git clone https://github.com/dglequang/APITest.git
+- cmd: git clone https://github.com/dglequang/APIAutomation.git
 
 2. Run a single test (Stay at project folder contain pom file)
 - cmd: mvn clean test "-Dkarate.options=--tags @feature1" -Dtest=TestRunner
